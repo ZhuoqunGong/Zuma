@@ -1,0 +1,4 @@
+This project is a Zuma game. The user control the frog with the mouse. By clicking the mouse, a ball is shot out. The next ball will be seen at this time. Every new appearing ball has a random color.
+There will be a list of enemy balls going along a given track. If over 3 same colored balls touching each other, it will make a combo, and every combo ball will be deleted, the user get score. The more balls be deleted in a combo, the more score the user get.
+After the combo, every ball a head of the combo balls will be pulled back to fill the gap. Once the ball list arrive at the end of the track, game overs. The end of the track is marked with a brown circle.
+When the player get scores more than the goal of current level, he will pass this level and enter next level.
